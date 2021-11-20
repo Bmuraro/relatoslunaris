@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/relatoslunaris/static/css/main.b5b3ffe0.chunk.css",
+    "main.js": "/relatoslunaris/static/js/main.970716bf.chunk.js",
+    "main.js.map": "/relatoslunaris/static/js/main.970716bf.chunk.js.map",
+    "runtime-main.js": "/relatoslunaris/static/js/runtime-main.0da5288b.js",
+    "runtime-main.js.map": "/relatoslunaris/static/js/runtime-main.0da5288b.js.map",
+    "static/css/2.58a45539.chunk.css": "/relatoslunaris/static/css/2.58a45539.chunk.css",
+    "static/js/2.4a878e77.chunk.js": "/relatoslunaris/static/js/2.4a878e77.chunk.js",
+    "static/js/2.4a878e77.chunk.js.map": "/relatoslunaris/static/js/2.4a878e77.chunk.js.map",
+    "static/js/3.89651be0.chunk.js": "/relatoslunaris/static/js/3.89651be0.chunk.js",
+    "static/js/3.89651be0.chunk.js.map": "/relatoslunaris/static/js/3.89651be0.chunk.js.map",
+    "index.html": "/relatoslunaris/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/relatoslunaris/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.b5b3ffe0.chunk.css.map": "/relatoslunaris/static/css/main.b5b3ffe0.chunk.css.map",
+    "static/js/2.4a878e77.chunk.js.LICENSE.txt": "/relatoslunaris/static/js/2.4a878e77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0da5288b.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.4a878e77.chunk.js",
+    "static/css/main.b5b3ffe0.chunk.css",
+    "static/js/main.970716bf.chunk.js"
+  ]
+}
