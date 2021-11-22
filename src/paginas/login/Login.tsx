@@ -67,7 +67,7 @@ function Login() {
 
     return(
         <Grid container direction='row' justifyContent='center' alignItems='center'>
-            <Grid xs={6} alignItems='center'>  
+            <Grid xs={6}>  
                 <Box paddingX={20}>
                     <form onSubmit={onSubmit}>
                         <Typography variant='h3' gutterBottom color='textPrimary' component='h3' align='center' className='texto1'>
